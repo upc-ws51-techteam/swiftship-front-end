@@ -1,0 +1,36 @@
+.nav {
+  background-color: #0C2642;
+  color: #fff;
+}
+
+.mat-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  margin-right: 16px;
+}
+
+.logo h1 {
+  padding-left: 1rem;
+}
+
+.logo img {
+  height: 60%;
+  padding-left: 2rem;
+}
+
+.right-links {
+  display: flex;
+  gap: 1rem;
+}
+
+.left-content {
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Awa",
+      "last_name": "Cate",
+      "username": "Palta",
+      "password": "Awa123",
+      "email": "awa-cate@swiftship.com",
+      "phone": "998877661",
+      "user_type": "client"
+    },
+    {
+      "id": 2,
+      "first_name": "Adrian",
+      "last_name": "Melgar",
+      "username": "Daiki",
+      "password": "Adrian123",
+      "email": "adrian-melgar@swiftship.com",
+      "phone": "998877661",
+      "user_type": "client"
+    },
+    {
+      "id": 3,
+      "first_name": "Piero",
+      "last_name": "Palomino",
+      "username": "Pierito",
+      "password": "Piero123",
+      "email": "piero-palomino@swiftship.com",
+      "phone": "998877661",
+      "user_type": "client"
+    },
+    {
+      "id": 4,
+      "first_name": "Donny",
+      "lastname": "Enriquez",
+      "user_name": "Potonny",
+      "password": "Donny123",
+      "email": "donny-enriquez@swiftship.com",
+      "phone": "998877661",
+      "user_type": "client"
+    },
+    {
+      "id": 5,
+      "first_name": "Micaela",
+      "last_name": "Rivasplata",
+      "username": "Mica",
+      "password": "Mica123",
+      "email": "mica-rivasplata@swiftship.com",
+      "phone": "998877661",
+      "user_type": "client"
+    },
+    {
+      "id": 6,
+      "first_name": "AAAAA",
+      "last_name": "BBBB",
+      "username": "ABA",
+      "password": "Abc123",
+      "email": "ABA@gmail.com",
+      "phone": "987655434",
+      "user_type": "client"
+    }
+  ],
+  "ships": [
+    {
+      "id": 1,
+      "name": "Pershing 9X",
+      "description": "The motor yacht Pershing 9X is produced by the brand Pershing Yachts since 2017. The Pershing 9X is a 28.09 meter sportboat with 4 guest cabins and a draft of 1.65 meters which can reach speeds of up to 42 knots. The yacht has a fiberglass / grp hull with a CE certification class (A) and can navigate the open ocean. The base price of a new Pershing 9X is €8.6 million.",
+      "length": "28.09m",
+      "beam": "6.23m",
+      "draft": "1.65m"
+    },
+    {
+      "id": 2,
+      "name": "AB Yachts 140",
+      "description": "TThe motor yacht AB Yachts 140 is produced by the brand AB Yachts since 2018. The AB Yachts 140 is a 42.00 meter designer motor yacht with accommodation for 18 guests and a draft of 1.30 meters which can reach speeds of up to 46 knots. The yacht has a carbon hull with a CE certification class (A) and can navigate the open ocean. The base price of a new AB Yachts 140 is not currently published, please contact the itBoat team for pricing details.",
+      "length": "42.00m",
+      "beam": "8.00m",
+      "draft": "1.30m"
+    },
+    {
+      "id": 3,
+      "name": "AB Yachts 116",
+      "description": "The motor yacht AB Yachts 116 is produced by the brand AB Yachts since 2009. The AB Yachts 116 is a 36.20 meter motor superyacht with accommodation for 16 guests and a draft of 1.20 meters which can reach speeds of up to 50 knots. The yacht has a carbon hull with a CE certification class (A) and can navigate the open ocean. The base price of a new AB Yachts 116 is not currently published, please contact the itBoat team for pricing details.",
+      "length": "36.20m",
+      "beam": "7.20m",
+      "draft": "1.20m"
+    },
+    {
+      "id": 4,
+      "name": "AB Yachts 100",
+      "description": "The motor yacht AB Yachts 100 is produced by the brand AB Yachts since 2018. The AB Yachts 100 is a 30.50 meter motor yacht with accommodation for 12 guests and a draft of 1.20 meters which can reach speeds of up to 50 knots. The yacht has a carbon hull with a CE certification class (A) and can navigate the open ocean. The base price of a new AB Yachts 100 is not currently published, please contact the itBoat team for pricing details.",
+      "length": "30.50m",
+      "beam": "7.20m",
+      "draft": "1.20m"
+    },
+    {
+      "id": 5,
+      "name": "AB Yachts 92",
+      "description": "The motor yacht AB Yachts 92 is produced by the brand AB Yachts since 2018. The AB Yachts 92 is a 28.20 meter motor yacht with accommodation for 12 guests and a draft of 1.20 meters which can reach speeds of up to 50 knots. The yacht has a carbon hull with a CE certification class (A) and can navigate the open ocean. The base price of a new AB Yachts 92 is not currently published, please contact the itBoat team for pricing details.",
+      "length": "28.20m",
+      "beam": "7.20m",
+      "draft": "1.20m"
+    },
+    {
+      "id": 6,
+      "name": "AB Yachts 88",
+      "description": "The motor yacht AB Yachts 88 is produced by the brand AB Yachts since 2018. The AB Yachts 88 is a 26.80 meter motor yacht with accommodation for 12 guests and a draft of 1.20 meters which can reach speeds of up to 50 knots. The yacht has a carbon hull with a CE certification class (A) and can navigate the open ocean. The base price of a new AB Yachts 88 is not currently published, please contact the itBoat team for pricing details.",
+      "length": "26.80m",
+      "beam": "7.20m",
+      "draft": "1.20m"
+    },
+    {
+      "id": 7,
+      "name": "AB Yachts 80",
+      "description": "The motor yacht AB Yachts 80 is produced by the brand AB Yachts since 2018. The AB Yachts 80 is a 24.40 meter motor yacht with accommodation for 12 guests and a draft of 1.20 meters which can reach speeds of up to 50 knots. The yacht has a carbon hull with a CE certification class (A) and can navigate the open ocean. The base price of a new AB Yachts 80 is not currently published, please contact the itBoat team for pricing details.",
+      "length": "24.40m",
+      "beam": "7.20m",
+      "draft": "1.20m"
+    },
+    {
+      "id": 8,
+      "name": "AB Yachts 78",
+      "description": "The motor yacht AB Yachts 78 is produced by the brand AB Yachts since 2018. The AB Yachts 78 is a 23.80 meter motor yacht with accommodation for 12 guests and a draft of 1.20 meters which can reach speeds of up to 50 knots. The yacht has a carbon hull with a CE certification class (A) and can navigate the open ocean. The base price of a new AB Yachts 78 is not currently published, please contact the itBoat team for pricing details.",
+      "length": "23.80m",
+      "beam": "7.20m",
+      "draft": "1.20m"
+    },
+    {
+      "id": 9,
+      "name": "AB Yachts 72",
+      "description": "The motor yacht AB Yachts 72 is produced by the brand AB Yachts since 2018. The AB Yachts 72 is a 22.00 meter motor yacht with accommodation for 12 guests and a draft of 1.20 meters which can reach speeds of up to 50 knots. The yacht has a carbon hull with a CE certification class (A) and can navigate the open ocean. The base price of a new AB Yachts 72 is not currently published, please contact the itBoat team for pricing details.",
+      "length": "22.00m",
+      "beam": "7.20m",
+      "draft": "1.20m"
+    }
+  ]
+}

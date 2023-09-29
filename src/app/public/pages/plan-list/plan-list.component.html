@@ -1,0 +1,22 @@
+<table>
+  <thead>
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Length</th>
+      <th>Beam</th>
+      <th>Draft</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let plan of plans">
+      <td>{{ plan.id }}</td>
+      <td>{{ plan.name }}</td>
+      <td>{{ plan.description }}</td>
+      <td>{{ plan.length }}</td>
+      <td>{{ plan.beam }}</td>
+      <td>{{ plan.draft }}</td>
+    </tr>
+  </tbody>
+</table>

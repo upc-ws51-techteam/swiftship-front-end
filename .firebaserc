@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "swiftship-a67df": {
+      "hosting": {
+        "front-end": [
+          "swiftship-a67df"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "swiftship-a67df"
+  }
+}

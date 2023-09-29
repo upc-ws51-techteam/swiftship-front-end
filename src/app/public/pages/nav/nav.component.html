@@ -1,0 +1,14 @@
+<mat-toolbar class="nav">
+  <!-- Logo on the right -->
+  <div class=" left-content logo">
+    <img src="./favicon.ico" alt="Swift Ship Logo">
+    <h1>Swift Ship</h1>
+  </div>
+
+  <div class="right-links">
+    <a mat-button routerLink="/home">Home</a>
+    <a mat-button routerLink="/plans">Ships</a>
+    <a mat-button routerLink="/login">Login</a>
+    <a mat-button (click)="signOut()" routerLink="/login">Sign Out</a>
+  </div>
+</mat-toolbar>

@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+  margin: 1rem auto;
+}
+
+.login-form-card {
+  width: 90vw;
+  margin: auto;
+}
+
+.login-full-width {
+  width: 80vw;
+  display: flex;
+}
+
+
+
+.login-half-width {
+  width: 40vw;
+}
+
+.button-row {
+  display: flex;
+  justify-content: flex-end;
+}
+.button-row a{
+  margin: auto 0.5rem;
+}
+
+.button-row button:nth-child(2) {
+  background-color: #0C2642;
+  color: #fff;
+}
+
+.button-row a:nth-child(1) {
+  background-color: #80B192;
+  color: #fff;
+}
+
